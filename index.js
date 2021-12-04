@@ -1,5 +1,5 @@
 import StringManipulator from './string-manipulator.js'
-import WebCrawler from './crawler.js'
+import WebCrawler from './web-crawler.js'
 import commandLineArgs from 'command-line-args'
 
 const optionDefinitions = [

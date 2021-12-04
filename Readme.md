@@ -3,11 +3,11 @@
 ### How to run
 execute commands in following manner
 
-```cmd
+```properties
 npm i
 ```
 
-```cmd
+```properties
 npm start -- --url=https://anatta.io/ --words=sustainable,Growth,Anatta
 ```
 
