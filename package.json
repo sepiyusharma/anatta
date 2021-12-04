@@ -1,0 +1,27 @@
+{
+  "name": "anatta",
+  "version": "1.0.0",
+  "description": "Counting number of occurense of given words in html page after crawling it.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./string-manipulator-test.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepiyusharma/anatta.git"
+  },
+  "author": "sepiyusharma@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepiyusharma/anatta/issues"
+  },
+  "homepage": "https://github.com/sepiyusharma/anatta#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "command-line-args": "^5.2.0",
+    "crawler": "^1.3.0",
+    "mocha": "^9.1.3"
+  }
+}
