@@ -17,7 +17,6 @@ export default class StringManipulator {
             mainHtmlIterator++;
         }
         return numberOfOccurenceCounter
-        // return htmlContent.split('').filter(word => word.toLowerCase() === findWordOccurence.toLowerCase()).length || 0;
     }
 
     isMatchedWordNotSubString(htmlContent, mainHtmlIterator, considerableSpecialCharacters) {
